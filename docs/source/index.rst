@@ -50,6 +50,8 @@ you can download the Read the Docs documentation in the following formats:
     * `Zipped HTML`_ 
     
 .. _PDF: https://docs.readthedocs.io/_/downloads/en/latest/pdf/
+
+
 .. _ePub: https://docs.readthedocs.io/_/downloads/en/latest/epub/
 .. _Zipped HTML: https://docs.readthedocs.io/_/downloads/en/latest/htmlzip/
 
@@ -71,3 +73,9 @@ formats specified in your config file for each active version.
 This means that if you wish to remove downloadable content for a given version,
 you can do so by removing the matching :ref:`config-file/v2:formats` key from
 your config file.
+
+.. toctree::
+   :maxdepth: 2
+
+   install
+   support
