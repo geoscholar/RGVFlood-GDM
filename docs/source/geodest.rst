@@ -1,7 +1,4 @@
-API
+Junck
 ===
 
-.. autosummary::
-   :toctree: generated
 
-   lumache
