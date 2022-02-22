@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Geospatial Data Model'
+copyright = '2022, RATES'
+author = 'Dr. Stacey D. Lyle'
 
 release = '0.1'
 version = '0.1.0'
